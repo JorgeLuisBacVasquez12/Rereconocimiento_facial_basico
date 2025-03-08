@@ -1,0 +1,10 @@
+Descarga el documento desde Drive. Su funcionamiento es básico, pero sirve como punto de partida para el registro de asistencia facial.
+
+Incluye carpetas para entrenar el sistema y mejorar el reconocimiento de puntos faciales. Los registros se almacenan en un archivo de Excel con nombre, número de carné, fecha y hora.
+
+Cuenta con una interfaz gráfica sencilla y utiliza las siguientes dependencias:**
+
+OpenCV (procesamiento de imágenes y detección facial)
+face_recognition (identificación de rostros)
+Pandas (manejo y almacenamiento de datos en Excel)
+Tkinter (interfaz gráfica)
