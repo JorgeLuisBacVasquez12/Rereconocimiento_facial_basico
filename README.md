@@ -1,2 +1,2 @@
-# Rereconocimiento_facial_basico
+# ACTUALIZAR README
 RECONOCIMIENTO FACIAL FASE PRUEBA
