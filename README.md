@@ -1,2 +1,3 @@
 # SERA QUE FUNCIONA ESTO
 RECONOCIMIENTO FACIAL FASE PRUEBA VERSION FINAL practicando git pull
+siuuuu madre mia el bicho
